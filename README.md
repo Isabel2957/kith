@@ -12,3 +12,5 @@ un proyecto impresionnate
 |once |852 |365 |
 |time |852 |365 |
 |carrot |852 |365 |
+## Como despegar la aplicacion
+- Para fhgkhgfrebv fdfd
