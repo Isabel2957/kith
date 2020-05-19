@@ -14,3 +14,5 @@ un proyecto impresionnate
 |carrot |852 |365 |
 ## Como despegar la aplicacion
 - Para fhgkhgfrebv fdfd
+- Lo ultimo agregado
+- Kith
