@@ -18,3 +18,4 @@ un proyecto impresionnate
 - Kith
 ## Cambios en dev.v1
 - okey
+## Como despegar la aplicacion
