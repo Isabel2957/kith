@@ -19,3 +19,7 @@ un proyecto impresionnate
 ## Cambios en dev.v1
 - okey
 ## Como despegar la aplicacion
+## Requerimientos
+|Funcionales    |No funcionales    |
+|------ |------ |
+|holaaa |hii |
