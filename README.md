@@ -22,4 +22,8 @@ un proyecto impresionnate
 ## Requerimientos
 |Funcionales    |No funcionales    |
 |------ |------ |
-|holaaa |hii |
+|*Contarà con registrarse con cuenta de facebook o gmail |*La aplicacion debe ser fàcil de usar |
+|*Mostrarà la visiòn , misiòn y normas de la empresa|La interfaz debe ser amigable e intuitiva |
+|*Los clientes podràn verificar la disponibilidad del producto|Debe mostrar tiempo de respuesta ràpida |
+|*La aplicacion debe estar disponible para su descarga en play store |Fàcil de descargar e instalar |
+|*Debe ser compatible con las ùltimas versiones de Android y Windows phone |*Debe mantener los datos almacenados y protegidos |
